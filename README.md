@@ -36,6 +36,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+# 🚀 Featured Projects:
+
+- 📄 **DocuTrust** — A document verification and trust management solution.
+- 📊 **MarketMind** — An AI-powered solution for market analysis and insights.
+- 🛡️ **Agentic Cyber AI** — An AI-driven cybersecurity solution.
+- 🧓 **ElderGuard AI** — An intelligent technology solution focused on elderly care.
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=dharaneeshmj313-netizen&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=dharaneeshmj313-netizen&theme=aura_dark&hide_border=false)<br/>
@@ -43,8 +51,7 @@
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dharaneeshmj313-netizen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=dharaneeshmj313-netizen&icon=0&color=0)](https://visitcount.itsvg.in)
