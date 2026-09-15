@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Dharaneesh MJ** 👨‍💻<br><br>* 🎓 B.Tech Information Technology Student<br>* 🐍 Python Enthusiast<br>* 🧩 Passionate Problem Solver<br>* 🤖 Exploring Artificial Intelligence & Machine Learning<br>* ⚙️ Learning n8n & Workflow Automation<br>* 💡 Love to learn new technologies<br>* 🚀 Building innovative AI-powered solutions<br><br>### 🛠️ Interests<br><br>Python • n8n • Problem Solving • AI & ML • Automation • System Design<br><br>### 🎯 Goal<br><br>To keep learning, solve real-world problems, and build impactful solutions through technology.<br>
+<br><br>Hi, I'm **Dharaneesh MJ** 👨‍💻<br><br>* 🎓 B.Tech Information Technology Student<br>* 🐍 Python Enthusiast<br>* 🧩 Passionate Problem Solver<br>* 🤖 Exploring Artificial Intelligence & Machine Learning<br>* ⚙️ Learning n8n & Workflow Automation<br>* 💡 Love to learn new technologies<br>* 🚀 Building innovative AI-powered solutions<br><br>### 🛠️ Interests<br><br>Python • n8n • Problem Solving • AI & ML • Automation • System Design<br><br>### 🎯 Goal<br><br>To keep learning, solve real-world problems, and build impactful solutions through technology.<br>
 
 
 ## 🌐 Socials:
